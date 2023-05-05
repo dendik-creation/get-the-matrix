@@ -18,5 +18,5 @@ You can also play it on a local computer and remember this game can run on local
 
 
 # Special Thanks
-### Thanks to [Construct 3](https://construct.net) for being a big part in the creation of Get The Matrix.
-### Thanks for playing Get The Matrix
+Thanks to [Construct 3](https://construct.net) for being a big part in the creation of Get The Matrix.
+Thanks for playing Get The Matrix
