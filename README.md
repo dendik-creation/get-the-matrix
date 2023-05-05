@@ -17,4 +17,6 @@ If you want to play it now, you can click here [Get-The-Matrix](https://dendik-c
 You can also play it on a local computer and remember this game can run on localhost. You can clone or download this repository
 
 
-# Thanks For Play Get The Matrix
+# Special Thanks
+### Thanks to [Construct 3](https://construct.net) for being a big part in the creation of Get The Matrix.
+### Thanks for playing Get The Matrix
