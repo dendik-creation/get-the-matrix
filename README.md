@@ -1,5 +1,8 @@
 # Get The Matrix - Play while learning math
 
+![UI](images/Gameplay-1.png)
+![Level 1](images/Gameplay-2.png)
+![Latihan Soal](images/Gameplay-3.png)
 
 ## Introduction
 Get The Matrix is a game name that refers to learning mathematics about the matrix. Get The Matrix was made by a team consisting of 3 members, including, I act as a game programmer, my partner acts as a game designer, and my mentor as an advisor.
