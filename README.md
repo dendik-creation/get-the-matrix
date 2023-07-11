@@ -16,9 +16,11 @@ Get The Matrix only supports Indonesian language.
 ### Play Now
 If you want to play it now, you can click here [Get-The-Matrix](https://dendik-creation.github.io/get-the-matrix/)
 
-### Play Local
+### Play Local Computer
 You can also play it on a local computer and remember this game can run on localhost. You can clone or download this repository
 
+### Play on Mobile
+Get The Matrix has supported its use up to the realm of mobile phones. You can download it by clicking here [Get The Matrix](https://play.google.com/store/apps/details?id=id.smkn2kudus.getmatriks)
 
 # Special Thanks
 Thanks to [Construct 3](https://construct.net) for being a big part in the creation of Get The Matrix.
